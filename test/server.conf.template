@@ -1,0 +1,4 @@
+[default]
+url: https://openbus.emtmadrid.es:9443/emt-proxy-server/last/
+idClient: YOUR_ID_CLIENT
+passKey: YOUR_PASS_KEY

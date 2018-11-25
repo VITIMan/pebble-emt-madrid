@@ -1,0 +1,12 @@
+= Pebble Application for Madrid EMT Buses =
+
+*Disclaimer*: This is not maintained and due to Pebble dissapearing, the app
+not longer works.
+
+
+This application queries the proxy EMT API, in that time the self-signed 
+certificate by EMT was a really mess. By your cell phone location 
+gives you the near bus stops.
+
+You can select a bus stop number and you get the upcoming buses by line
+number and destination.
